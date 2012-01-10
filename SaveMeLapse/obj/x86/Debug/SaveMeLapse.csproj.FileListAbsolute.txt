@@ -1,0 +1,9 @@
+C:\Dropbox\Proiecte\SaveMeLapse\SaveMeLapse\bin\Debug\SaveMeLapse.exe
+C:\Dropbox\Proiecte\SaveMeLapse\SaveMeLapse\bin\Debug\SaveMeLapse.pdb
+C:\Dropbox\Proiecte\SaveMeLapse\SaveMeLapse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\Proiecte\SaveMeLapse\SaveMeLapse\obj\x86\Debug\SaveMeLapse.Form1.resources
+C:\Dropbox\Proiecte\SaveMeLapse\SaveMeLapse\obj\x86\Debug\SaveMeLapse.Properties.Resources.resources
+C:\Dropbox\Proiecte\SaveMeLapse\SaveMeLapse\obj\x86\Debug\ResGen.read.1.tlog
+C:\Dropbox\Proiecte\SaveMeLapse\SaveMeLapse\obj\x86\Debug\ResGen.write.1.tlog
+C:\Dropbox\Proiecte\SaveMeLapse\SaveMeLapse\obj\x86\Debug\SaveMeLapse.exe
+C:\Dropbox\Proiecte\SaveMeLapse\SaveMeLapse\obj\x86\Debug\SaveMeLapse.pdb
