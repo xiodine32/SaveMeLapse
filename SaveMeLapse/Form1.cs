@@ -20,6 +20,14 @@ namespace SaveMeLapse
 
         private void button1_Click(object sender, EventArgs e)
         {
+            FolderBrowserDialog temp2 = new FolderBrowserDialog();
+            if (temp2.ShowDialog() == DialogResult.OK)
+            {
+                Environment.CurrentDirectory = temp2.SelectedPath;
+            }
+            else
+                return;
+            //Environment.CurrentDirectory = "";
             SaveThread temp = new SaveThread(Convert.ToInt32(textBox1.Text));
             Thread lol = new Thread(new ThreadStart(temp.RunMainFunction));
             lol.Start();
@@ -36,7 +44,7 @@ namespace SaveMeLapse
         {
             this.pause = pause;
             name = -1;
-            bmpScreenshot = new Bitmap(Screen.PrimaryScreen.Bounds.Width, Screen.PrimaryScreen.Bounds.Height, PixelFormat.Format16bppArgb1555);
+            bmpScreenshot = new Bitmap(Screen.PrimaryScreen.Bounds.Width, Screen.PrimaryScreen.Bounds.Height, PixelFormat.Format32bppArgb);
             gfxScreenshot = Graphics.FromImage(bmpScreenshot);
             File.WriteAllText("saving.DELME","Delete me to stop the program");
         }
