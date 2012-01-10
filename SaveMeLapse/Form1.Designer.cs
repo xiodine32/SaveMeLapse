@@ -61,16 +61,17 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(56, 20);
             this.textBox1.TabIndex = 2;
-            this.textBox1.Text = "1";
+            this.textBox1.Text = "1000";
+            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(129, 9);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(24, 13);
+            this.label2.Size = new System.Drawing.Size(20, 13);
             this.label2.TabIndex = 3;
-            this.label2.Text = "sec";
+            this.label2.Text = "ms";
             // 
             // label3
             // 

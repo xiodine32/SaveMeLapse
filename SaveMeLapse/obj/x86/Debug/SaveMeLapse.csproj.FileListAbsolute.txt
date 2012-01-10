@@ -7,3 +7,12 @@ C:\Dropbox\Proiecte\SaveMeLapse\SaveMeLapse\obj\x86\Debug\ResGen.read.1.tlog
 C:\Dropbox\Proiecte\SaveMeLapse\SaveMeLapse\obj\x86\Debug\ResGen.write.1.tlog
 C:\Dropbox\Proiecte\SaveMeLapse\SaveMeLapse\obj\x86\Debug\SaveMeLapse.exe
 C:\Dropbox\Proiecte\SaveMeLapse\SaveMeLapse\obj\x86\Debug\SaveMeLapse.pdb
+C:\Proiecte\SaveMeLapse\SaveMeLapse\obj\x86\Debug\SaveMeLapse.exe
+C:\Proiecte\SaveMeLapse\SaveMeLapse\obj\x86\Debug\SaveMeLapse.pdb
+C:\Proiecte\SaveMeLapse\SaveMeLapse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Proiecte\SaveMeLapse\SaveMeLapse\obj\x86\Debug\SaveMeLapse.Form1.resources
+C:\Proiecte\SaveMeLapse\SaveMeLapse\obj\x86\Debug\SaveMeLapse.Properties.Resources.resources
+C:\Proiecte\SaveMeLapse\SaveMeLapse\obj\x86\Debug\ResGen.read.1.tlog
+C:\Proiecte\SaveMeLapse\SaveMeLapse\obj\x86\Debug\ResGen.write.1.tlog
+C:\Proiecte\SaveMeLapse\SaveMeLapse\bin\Debug\SaveMeLapse.exe
+C:\Proiecte\SaveMeLapse\SaveMeLapse\bin\Debug\SaveMeLapse.pdb

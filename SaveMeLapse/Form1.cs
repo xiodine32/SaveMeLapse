@@ -36,15 +36,16 @@ namespace SaveMeLapse
         {
             this.pause = pause;
             name = -1;
-            bmpScreenshot = new Bitmap(Screen.PrimaryScreen.Bounds.Width, Screen.PrimaryScreen.Bounds.Height, PixelFormat.Format32bppArgb);
+            bmpScreenshot = new Bitmap(Screen.PrimaryScreen.Bounds.Width, Screen.PrimaryScreen.Bounds.Height, PixelFormat.Format16bppArgb1555);
             gfxScreenshot = Graphics.FromImage(bmpScreenshot);
             File.WriteAllText("saving.DELME","Delete me to stop the program");
         }
         public void RunMainFunction()
         {
+            Thread.Sleep(5000);
             while (File.Exists("saving.DELME")) {
                 SaveScreenshot();
-                Thread.Sleep(pause * 500);
+                Thread.Sleep(pause);
             }
         }
         private void SaveScreenshot()
